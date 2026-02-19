@@ -14,5 +14,7 @@ PASSWORD:FAJoil@07
 FACEBOOKNAME:Fajoilnigerialtd
 INSTAGRAMNAME:Fajoilnigerialtd
 TELEGRAMNAME:fajoilnigltd
+ALLPASSWORD:FAJoil@07
+
 
 
